@@ -1,0 +1,17 @@
+{
+  "name": "Angular-skeleton",
+  "authors": [
+    "Mac <taralgurung@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
